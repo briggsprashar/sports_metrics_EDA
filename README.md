@@ -1,6 +1,6 @@
 # Sports Metrics EDA
 
-I was the Project lead of this EDA [project](https://github.com/briggsprashar/sports_metric_analysis) from start to finish. My team included a Research Assistant, 2 Research Analysts and a Lead Coder.
+I was the Project lead of this EDA [project](https://github.com/briggsprashar/sports_metric_analysis). The team included a Research Assistant, 2 Research Analysts, 1 Lead Coder, 1 Project Lead
 
 This EDA project used a sample collegiate athlete metric dataset of a NCAA Tier 1 University. It involved the full EDA lifecycle (shown below) to get insights from the dataset about athletics sports performance. 
 
